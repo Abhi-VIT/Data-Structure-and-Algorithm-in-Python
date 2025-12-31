@@ -17,6 +17,8 @@ Welcome to the **Data Structure and Algorithm in Python** repository! This proje
 
 This repository demonstrates how to implement and utilize common data structures and algorithms in Python. Each concept is explored in a dedicated Jupyter Notebook, providing code examples and explanations.
 
+> **Note:** If you are new to Python or need a quick refresher, checking out the [Python Basics and Data Types](PYTHON_BASICS.md) guide is highly recommended.
+
 ## Prerequisites
 
 To run the code in this repository, you need:

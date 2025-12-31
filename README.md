@@ -30,7 +30,7 @@ To run the code in this repository, you need:
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/Abhi-VIT/Data-Structure-and-Algorithm-in-Python.git
     cd Data-Structure-and-Algorithm-in-Python
     ```
 

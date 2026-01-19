@@ -7,7 +7,8 @@ Welcome to the **Data Structure and Algorithm in Python** repository! This proje
 - [Overview](#overview)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Implemented Modules](#implemented-modules)
+- [Numpy](#numpy)
+  - [DSA Compilation](#dsa-compilation)
   - [Binary Search](#binary-search)
   - [Linked List](#linked-list)
   - [Queue](#queue)
@@ -42,6 +43,26 @@ To run the code in this repository, you need:
 3.  Open the desired `.ipynb` file to view and run the code.
 
 ## Implemented Modules
+
+### Numpy
+*File: `numpy.ipynb`*
+
+This notebook provides a comprehensive introduction to **NumPy**, a powerful library for numerical computing in Python.
+- **Features**:
+    - Numpy array creation (from lists, using `arange`, `linspace`, `zeros`, `ones`, etc.).
+    - Array operations and manipulation.
+    - **Performance**: Demonstrates the significant speed advantage of Numpy arrays over standard Python lists for large-scale numerical operations.
+
+### DSA Compilation
+*File: `DSA.ipynb`*
+
+This notebook contains a collection of fundamental algorithms and data structures including:
+- **Linear Search**: Finding elements in an unsorted list.
+- **Fibonacci Sequence**: Iterative implementation.
+- **Binary Search Tree (BST)**: 
+    - `Node` class with `insert`, `search`, and `inorder` traversal methods.
+    - Demonstrates creation and traversal of a BST.
+- **Stack**: Basic stack operations (`push`, `pop`, `peek`) using a Python list.
 
 ### Binary Search
 *File: `Binary_Search.ipynb`*
